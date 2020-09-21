@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TAL_EdgeColoring/1.0.0": {
+        "runtime": {
+          "TAL_EdgeColoring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TAL_EdgeColoring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
